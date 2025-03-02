@@ -1,0 +1,1 @@
+A simple python program which takes the entered input directory, lists existing audio files with their current level of decibels and offers to adjust the dbFS, the normalized files are then saved within the same input directory in the newly created directory "normalized"
